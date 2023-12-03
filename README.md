@@ -1,4 +1,4 @@
-#**Learning Projects**
+#Learning Projects
 
 This is an always updating list of projects that I have learned from or are just plain cool. Most of the programs that are here aren't going to be the most efficient but they taught me something interesting. I will do my best to explain what I learned and how it is an improvement where applicable. My programming background is in java (for school), Lua and about 36 seconds of JavaScript.
 
