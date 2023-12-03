@@ -1,8 +1,8 @@
-#Learning Projects
+# ***Learning Projects***
 
 This is an always updating list of projects that I have learned from or are just plain cool. Most of the programs that are here aren't going to be the most efficient but they taught me something interesting. I will do my best to explain what I learned and how it is an improvement where applicable. My programming background is in java (for school), Lua and about 36 seconds of JavaScript.
 
-###**Dice Simulator**
+### **Dice Simulator**
 I love DnD so I figured making a dice roller would be a fun way to practice programming. Originally, I was just going to have the program roll the standard DnD dice (d2, d4, d6, d8, d10, d20). The idea expanded when my girlfriend mentioned it would be more fun if you could roll any type of dice, even ones that aren't possible. With this in mind I decided to write this program in rust. Rust is a very new and different language for me with a lot of rough learning curves.
 
 1) Version 1
