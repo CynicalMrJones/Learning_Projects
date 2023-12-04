@@ -20,3 +20,6 @@ dice_simulator 5 d30
 It would error out.
 That's when the word_split() function came into existence.
 This function broke the second argument into bytes and searched through them taking out the "d" in front of the number. It would then return the number as an integer and feed feed it back into roller. The code is not quite my own as I copied it from a book called "The Rust Programming Language" second edition. That chapter was about ownership and it was showing an easy way to separate words from each other using the spaces as a delimiter. I figured the code would fit perfectly here with a few small modifications. The original 178 lines of code was shortened to 63 lines. Quite the improvement.   
+
+### **Christmas**
+This was a practice problem in "The Rust Programming Language" book. It was after chapter 3 where it recommended trying to solve a few different problems. The question simply read "Print the lyrics to the Christmas carol "The Twelve Days of Christmas" taking advantage of the repetitions". This was the solution I came up with and it surprisingly worked the first try. The lyrics() function simply returns the appropriate lyric when given the specific number. The looper() function then will print the lyrics in descending order. 
